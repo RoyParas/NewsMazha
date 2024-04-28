@@ -18,8 +18,9 @@ NewsMazha is a website that fetches and displays the latest news articles from v
 
 To get started with NewsMazha, follow these steps:
 
-1. Clone the repository:
+1. Open Terminal on your local machine
+2. Clone the repository:
    ```bash
    git clone https://github.com/RoyParas/NewsMazha.git
 
-2. Run the application by simply going live
+3. Run the application by simply going live
