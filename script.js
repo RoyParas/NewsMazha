@@ -1,4 +1,4 @@
-const API_KEY="5a9fc8e9fe5146cb995ed020961146e4";
+const API_KEY="**********"; //Replace **** with API Key by generating from NewsAPI
 const url="https://newsapi.org/v2/everything?q=";
 
 window.addEventListener("load",()=>fetchNews("World"));
